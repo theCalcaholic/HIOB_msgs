@@ -49,6 +49,7 @@ add_message_files(
   FILES
   Rect.msg
   TrackingResult.msg
+  FrameWithGroundTruth.msg
 #   Message1.msg
 #   Message2.msg
 )
