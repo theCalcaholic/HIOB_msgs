@@ -1,3 +1,4 @@
 Rect position
 float32 predictionQuality
 int32 lostObject
+string frameIdentifier
